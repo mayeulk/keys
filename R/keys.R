@@ -7,7 +7,7 @@
 #' @param keys A character vector of keys to bind. Examples include, `command`,
 #' `command+shift+a`, `up down left right`, and more.
 #' @param global Should keys work anywhere? If TRUE, keys are triggered when
-#' inside a textInput.
+#' inside a textInput, or when a radio button has just been selected.
 #'
 #' @examples
 #' \dontrun{
